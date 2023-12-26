@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "153061784534",
+    "firebase_url": "https://demodatabase-22f60-default-rtdb.firebaseio.com",
+    "project_id": "demodatabase-22f60",
+    "storage_bucket": "demodatabase-22f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153061784534:android:0e98c0d37bd696f58c0277",
+        "android_client_info": {
+          "package_name": "com.example.tesla_laborotory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBfNjkfoRZZsdjW60xaXlSZHe4_0rqwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
